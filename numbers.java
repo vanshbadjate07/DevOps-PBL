@@ -7,5 +7,4 @@ class numbers{
             System.out.println(i+1);
         }
         System.out.println("End Of Code!!");
-    }
-}
+    }}
